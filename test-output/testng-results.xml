@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="82" started-at="2019-02-16T16:46:02Z" finished-at="2019-02-16T16:46:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="82" started-at="2019-02-16T16:46:02Z" finished-at="2019-02-16T16:46:02Z">
+      <class name="com.learning.maven.Test1">
+        <test-method status="PASS" signature="function4()[pri:-3, instance:com.learning.maven.Test1@28feb3fa]" name="function4" duration-ms="15" started-at="2019-02-16T16:46:02Z" finished-at="2019-02-16T16:46:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- function4 -->
+        <test-method status="PASS" signature="function()[pri:-1, instance:com.learning.maven.Test1@28feb3fa]" name="function" duration-ms="3" started-at="2019-02-16T16:46:02Z" finished-at="2019-02-16T16:46:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- function -->
+        <test-method status="PASS" signature="functionn()[pri:0, instance:com.learning.maven.Test1@28feb3fa]" name="functionn" duration-ms="5" started-at="2019-02-16T16:46:02Z" finished-at="2019-02-16T16:46:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- functionn -->
+        <test-method status="PASS" signature="nopriority()[pri:0, instance:com.learning.maven.Test1@28feb3fa]" name="nopriority" duration-ms="3" started-at="2019-02-16T16:46:02Z" finished-at="2019-02-16T16:46:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nopriority -->
+        <test-method status="PASS" signature="function3()[pri:1, instance:com.learning.maven.Test1@28feb3fa]" name="function3" duration-ms="2" started-at="2019-02-16T16:46:02Z" finished-at="2019-02-16T16:46:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- function3 -->
+      </class> <!-- com.learning.maven.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
